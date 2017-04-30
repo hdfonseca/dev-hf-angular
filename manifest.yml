@@ -1,0 +1,9 @@
+---
+applications:
+ - path: .
+   memory: 256M
+   instances: 1
+   domain: mybluemix.net
+   name: AngularIni
+   host: AngularIni
+   disk_quota: 256M
